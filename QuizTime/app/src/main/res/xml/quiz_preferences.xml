@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+        <ListPreference
+            android:defaultValue="@string/difficulty_easy"
+            android:entries="@array/difficulty_labels"
+            android:entryValues="@array/difficulty_values"
+            android:key="@string/key_difficulty_pref"
+            android:title="Questions difficulty"
+
+            />
+
+        <Preference
+            android:title="Questions count"
+            android:defaultValue="20"
+            android:key="@string/key_amount_pref"
+            />
+
+</PreferenceScreen>

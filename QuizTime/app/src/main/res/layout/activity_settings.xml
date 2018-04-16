@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical">
+ <TextView
+     android:paddingLeft="36dp"
+     android:paddingStart="36dp"
+     android:textStyle="bold"
+     android:padding="10dp"
+     android:textSize="24sp"
+     android:id="@+id/title_text"
+     android:text="@string/settings_title"
+     android:textColor="@android:color/white"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content" />
+ <View
+     android:layout_width="match_parent"
+     android:layout_height="1dp"
+     android:id="@+id/view"
+     android:layout_below="@+id/title_text"
+     android:background="@android:color/white"
+     />
+ <TextView
+     android:textStyle="bold"
+     android:padding="10dp"
+     android:textSize="24sp"
+
+     android:layout_marginTop="24dp"
+     android:layout_marginLeft="24dp"
+     android:layout_marginRight="24dp"
+     android:id="@+id/title2"
+     android:layout_below="@+id/view"
+     android:text="Quiz settings"
+     android:textColor="@color/colorAccent"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content" />
+ <FrameLayout
+     android:layout_marginLeft="24dp"
+     android:layout_marginRight="24dp"
+     android:layout_marginBottom="24dp"
+     android:layout_below="@+id/title2"
+     android:id="@+id/container_settings"
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"/>
+</RelativeLayout>
