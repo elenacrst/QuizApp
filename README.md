@@ -2,10 +2,11 @@
 
 <b>
 
-1.   <img src="https://i.imgur.com/9sKQZFi.png" width="240" height="400"/>       2.   <img src="https://i.imgur.com/3Kjwdeu.png" width="240" height="400"/>    
+1).   <img src="https://i.imgur.com/9sKQZFi.png" width="240" height="400"/>       2).   <img src="https://i.imgur.com/3Kjwdeu.png" width="240" height="400"/>    
 
 
-3.   <img src="https://i.imgur.com/00srMHN.png" width="240" height="400"/>       4.   <img src="https://i.imgur.com/DL1v2F9.jpg" width="240" height="400"/>
+3).   <img src="https://i.imgur.com/00srMHN.png" width="240" height="400"/>       4).   <img src="https://i.imgur.com/DL1v2F9.jpg" width="240" height="400"/>
+
 
 1. Settings Screen
 2. Score Screen
