@@ -13,4 +13,4 @@
 3. Question Screen
 4. Categories Screen
 
-<i>Features: fragment for the footer, Realm database, Retrofit requests to get data fom the open trivia database API, settings screen for storing user's preferences for difficulty and number of questions, gradients, list views, card view, custom adapters and other details.
+<i>Features: fragment for the footer, Realm database, Retrofit requests to get data fom the open trivia database API, settings screen for storing user's preferences for difficulty and number of questions, gradients, list views, card view, custom adapters, countdown timer and other details.
